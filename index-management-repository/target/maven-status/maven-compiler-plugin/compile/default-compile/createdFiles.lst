@@ -1,0 +1,4 @@
+br\com\machado\pedro\ivo\repository\IndexRepository.class
+br\com\machado\pedro\ivo\entity\IndexEntity.class
+br\com\machado\pedro\ivo\repository\config\MongoConfig.class
+br\com\machado\pedro\ivo\repository\MongoAbstractService.class

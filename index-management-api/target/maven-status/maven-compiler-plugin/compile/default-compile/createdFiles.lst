@@ -1,0 +1,4 @@
+br\com\machado\pedro\ivo\resources\IndexResource.class
+br\com\machado\pedro\ivo\resources\exception\mapper\ExceptionHandler.class
+br\com\machado\pedro\ivo\resources\exception\mapper\ValidationExceptionHandler.class
+br\com\machado\pedro\ivo\resources\exception\mapper\GenericExceptionHandler.class
