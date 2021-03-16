@@ -48,7 +48,7 @@
 		<wadl.version>2.1</wadl.version>
 
 		<!-- junit -->
-		<junit.version>4.11</junit.version>
+		<junit.version>4.13.1</junit.version>
 		
 		<!-- Deploy -->
 		<cargo.api>benchmark#index</cargo.api>
